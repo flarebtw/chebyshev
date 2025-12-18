@@ -1,0 +1,210 @@
+Enter n (Number of Chebyshev polynomials to generate): x: -1
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -1, Trigonometric: -1
+T_2(x) Horner: 1, Trigonometric: 1
+T_3(x) Horner: -1, Trigonometric: -1
+T_4(x) Horner: 1, Trigonometric: 1
+T_5(x) Horner: -1, Trigonometric: -1
+T_6(x) Horner: 1, Trigonometric: 1
+T_7(x) Horner: -1, Trigonometric: -1
+-----------------------------------
+x: -0.9
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.9, Trigonometric: -0.9
+T_2(x) Horner: 0.62, Trigonometric: 0.62
+T_3(x) Horner: -0.216, Trigonometric: -0.216
+T_4(x) Horner: -0.2312, Trigonometric: -0.2312
+T_5(x) Horner: 0.63216, Trigonometric: 0.63216
+T_6(x) Horner: -0.906688, Trigonometric: -0.906688
+T_7(x) Horner: 0.999878, Trigonometric: 0.999878
+-----------------------------------
+x: -0.8
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.8, Trigonometric: -0.8
+T_2(x) Horner: 0.28, Trigonometric: 0.28
+T_3(x) Horner: 0.352, Trigonometric: 0.352
+T_4(x) Horner: -0.8432, Trigonometric: -0.8432
+T_5(x) Horner: 0.99712, Trigonometric: 0.99712
+T_6(x) Horner: -0.752192, Trigonometric: -0.752192
+T_7(x) Horner: 0.206387, Trigonometric: 0.206387
+-----------------------------------
+x: -0.7
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.7, Trigonometric: -0.7
+T_2(x) Horner: -0.02, Trigonometric: -0.02
+T_3(x) Horner: 0.728, Trigonometric: 0.728
+T_4(x) Horner: -0.9992, Trigonometric: -0.9992
+T_5(x) Horner: 0.67088, Trigonometric: 0.67088
+T_6(x) Horner: 0.059968, Trigonometric: 0.059968
+T_7(x) Horner: -0.754835, Trigonometric: -0.754835
+-----------------------------------
+x: -0.6
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.6, Trigonometric: -0.6
+T_2(x) Horner: -0.28, Trigonometric: -0.28
+T_3(x) Horner: 0.936, Trigonometric: 0.936
+T_4(x) Horner: -0.8432, Trigonometric: -0.8432
+T_5(x) Horner: 0.07584, Trigonometric: 0.07584
+T_6(x) Horner: 0.752192, Trigonometric: 0.752192
+T_7(x) Horner: -0.97847, Trigonometric: -0.97847
+-----------------------------------
+x: -0.5
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.5, Trigonometric: -0.5
+T_2(x) Horner: -0.5, Trigonometric: -0.5
+T_3(x) Horner: 1, Trigonometric: 1
+T_4(x) Horner: -0.5, Trigonometric: -0.5
+T_5(x) Horner: -0.5, Trigonometric: -0.5
+T_6(x) Horner: 1, Trigonometric: 1
+T_7(x) Horner: -0.5, Trigonometric: -0.5
+-----------------------------------
+x: -0.4
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.4, Trigonometric: -0.4
+T_2(x) Horner: -0.68, Trigonometric: -0.68
+T_3(x) Horner: 0.944, Trigonometric: 0.944
+T_4(x) Horner: -0.0752, Trigonometric: -0.0752
+T_5(x) Horner: -0.88384, Trigonometric: -0.88384
+T_6(x) Horner: 0.782272, Trigonometric: 0.782272
+T_7(x) Horner: 0.258022, Trigonometric: 0.258022
+-----------------------------------
+x: -0.3
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.3, Trigonometric: -0.3
+T_2(x) Horner: -0.82, Trigonometric: -0.82
+T_3(x) Horner: 0.792, Trigonometric: 0.792
+T_4(x) Horner: 0.3448, Trigonometric: 0.3448
+T_5(x) Horner: -0.99888, Trigonometric: -0.99888
+T_6(x) Horner: 0.254528, Trigonometric: 0.254528
+T_7(x) Horner: 0.846163, Trigonometric: 0.846163
+-----------------------------------
+x: -0.2
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.2, Trigonometric: -0.2
+T_2(x) Horner: -0.92, Trigonometric: -0.92
+T_3(x) Horner: 0.568, Trigonometric: 0.568
+T_4(x) Horner: 0.6928, Trigonometric: 0.6928
+T_5(x) Horner: -0.84512, Trigonometric: -0.84512
+T_6(x) Horner: -0.354752, Trigonometric: -0.354752
+T_7(x) Horner: 0.987021, Trigonometric: 0.987021
+-----------------------------------
+x: -0.1
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: -0.1, Trigonometric: -0.1
+T_2(x) Horner: -0.98, Trigonometric: -0.98
+T_3(x) Horner: 0.296, Trigonometric: 0.296
+T_4(x) Horner: 0.9208, Trigonometric: 0.9208
+T_5(x) Horner: -0.48016, Trigonometric: -0.48016
+T_6(x) Horner: -0.824768, Trigonometric: -0.824768
+T_7(x) Horner: 0.645114, Trigonometric: 0.645114
+-----------------------------------
+x: 0
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0, Trigonometric: 6.12323e-17
+T_2(x) Horner: -1, Trigonometric: -1
+T_3(x) Horner: 0, Trigonometric: -1.83697e-16
+T_4(x) Horner: 1, Trigonometric: 1
+T_5(x) Horner: 0, Trigonometric: 3.06162e-16
+T_6(x) Horner: -1, Trigonometric: -1
+T_7(x) Horner: 0, Trigonometric: -4.28626e-16
+-----------------------------------
+x: 0.1
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.1, Trigonometric: 0.1
+T_2(x) Horner: -0.98, Trigonometric: -0.98
+T_3(x) Horner: -0.296, Trigonometric: -0.296
+T_4(x) Horner: 0.9208, Trigonometric: 0.9208
+T_5(x) Horner: 0.48016, Trigonometric: 0.48016
+T_6(x) Horner: -0.824768, Trigonometric: -0.824768
+T_7(x) Horner: -0.645114, Trigonometric: -0.645114
+-----------------------------------
+x: 0.2
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.2, Trigonometric: 0.2
+T_2(x) Horner: -0.92, Trigonometric: -0.92
+T_3(x) Horner: -0.568, Trigonometric: -0.568
+T_4(x) Horner: 0.6928, Trigonometric: 0.6928
+T_5(x) Horner: 0.84512, Trigonometric: 0.84512
+T_6(x) Horner: -0.354752, Trigonometric: -0.354752
+T_7(x) Horner: -0.987021, Trigonometric: -0.987021
+-----------------------------------
+x: 0.3
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.3, Trigonometric: 0.3
+T_2(x) Horner: -0.82, Trigonometric: -0.82
+T_3(x) Horner: -0.792, Trigonometric: -0.792
+T_4(x) Horner: 0.3448, Trigonometric: 0.3448
+T_5(x) Horner: 0.99888, Trigonometric: 0.99888
+T_6(x) Horner: 0.254528, Trigonometric: 0.254528
+T_7(x) Horner: -0.846163, Trigonometric: -0.846163
+-----------------------------------
+x: 0.4
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.4, Trigonometric: 0.4
+T_2(x) Horner: -0.68, Trigonometric: -0.68
+T_3(x) Horner: -0.944, Trigonometric: -0.944
+T_4(x) Horner: -0.0752, Trigonometric: -0.0752
+T_5(x) Horner: 0.88384, Trigonometric: 0.88384
+T_6(x) Horner: 0.782272, Trigonometric: 0.782272
+T_7(x) Horner: -0.258022, Trigonometric: -0.258022
+-----------------------------------
+x: 0.5
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.5, Trigonometric: 0.5
+T_2(x) Horner: -0.5, Trigonometric: -0.5
+T_3(x) Horner: -1, Trigonometric: -1
+T_4(x) Horner: -0.5, Trigonometric: -0.5
+T_5(x) Horner: 0.5, Trigonometric: 0.5
+T_6(x) Horner: 1, Trigonometric: 1
+T_7(x) Horner: 0.5, Trigonometric: 0.5
+-----------------------------------
+x: 0.6
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.6, Trigonometric: 0.6
+T_2(x) Horner: -0.28, Trigonometric: -0.28
+T_3(x) Horner: -0.936, Trigonometric: -0.936
+T_4(x) Horner: -0.8432, Trigonometric: -0.8432
+T_5(x) Horner: -0.07584, Trigonometric: -0.07584
+T_6(x) Horner: 0.752192, Trigonometric: 0.752192
+T_7(x) Horner: 0.97847, Trigonometric: 0.97847
+-----------------------------------
+x: 0.7
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.7, Trigonometric: 0.7
+T_2(x) Horner: -0.02, Trigonometric: -0.02
+T_3(x) Horner: -0.728, Trigonometric: -0.728
+T_4(x) Horner: -0.9992, Trigonometric: -0.9992
+T_5(x) Horner: -0.67088, Trigonometric: -0.67088
+T_6(x) Horner: 0.059968, Trigonometric: 0.059968
+T_7(x) Horner: 0.754835, Trigonometric: 0.754835
+-----------------------------------
+x: 0.8
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.8, Trigonometric: 0.8
+T_2(x) Horner: 0.28, Trigonometric: 0.28
+T_3(x) Horner: -0.352, Trigonometric: -0.352
+T_4(x) Horner: -0.8432, Trigonometric: -0.8432
+T_5(x) Horner: -0.99712, Trigonometric: -0.99712
+T_6(x) Horner: -0.752192, Trigonometric: -0.752192
+T_7(x) Horner: -0.206387, Trigonometric: -0.206387
+-----------------------------------
+x: 0.9
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 0.9, Trigonometric: 0.9
+T_2(x) Horner: 0.62, Trigonometric: 0.62
+T_3(x) Horner: 0.216, Trigonometric: 0.216
+T_4(x) Horner: -0.2312, Trigonometric: -0.2312
+T_5(x) Horner: -0.63216, Trigonometric: -0.63216
+T_6(x) Horner: -0.906688, Trigonometric: -0.906688
+T_7(x) Horner: -0.999878, Trigonometric: -0.999878
+-----------------------------------
+x: 1
+T_0(x) Horner: 1, Trigonometric: 1
+T_1(x) Horner: 1, Trigonometric: 1
+T_2(x) Horner: 1, Trigonometric: 1
+T_3(x) Horner: 1, Trigonometric: 1
+T_4(x) Horner: 1, Trigonometric: 1
+T_5(x) Horner: 1, Trigonometric: 1
+T_6(x) Horner: 1, Trigonometric: 1
+T_7(x) Horner: 1, Trigonometric: 1
+-----------------------------------

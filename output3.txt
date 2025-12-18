@@ -1,0 +1,18 @@
+Zeros of Chebyshev polynomial of degree 7
+Zero 1: 0.974928
+Zero 2: 0.781831
+Zero 3: 0.433884
+Zero 4: 6.12323e-17
+Zero 5: -0.433884
+Zero 6: -0.781831
+Zero 7: -0.974928
+-------------------------------------------
+Extrema of Chebyshev polynomial of degree 7
+Extremum 1: x = 1, max
+Extremum 2: x = 0.900969, min
+Extremum 3: x = 0.62349, max
+Extremum 4: x = 0.222521, min
+Extremum 5: x = -0.222521, max
+Extremum 6: x = -0.62349, min
+Extremum 7: x = -0.900969, max
+Extremum 8: x = -1, min
